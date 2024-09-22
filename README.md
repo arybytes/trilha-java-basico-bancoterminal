@@ -1,4 +1,4 @@
-# Projeto ContaBanco
+# Desafio DIO - Simulando uma Conta Bancária Atráves do Terminal/Console 
 
 Este projeto é uma aplicação Java simples que simula a criação de uma conta bancária como parte de um desafio da DIO (Digital Innovation One). O usuário insere dados via terminal, e o programa exibe uma mensagem de confirmação com as informações da conta.
 

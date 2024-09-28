@@ -22,11 +22,6 @@ Após a inserção dos dados, o sistema confirma a criação da conta com uma me
 | Nome Cliente    | Texto   | MARIO ANDRADE    |
 | Saldo           | Decimal | 237.48           |
 
-## Como Usar
-
-1. **Clone o repositório** ou faça o download do código fonte.
-2. **Compile o projeto** usando sua IDE ou terminal.
-3. **Execute o programa**.
 
 ### Passos para Execução
 
